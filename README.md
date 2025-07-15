@@ -31,13 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Adeiye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adeiye01&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simsbam&layout=compact&theme=tokyonight)
-
----
 
 ## 🤝 Let's Collaborate
 
